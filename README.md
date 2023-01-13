@@ -1,6 +1,9 @@
 [![Web site](https://img.shields.io/badge/developer-lsst.io-brightgreen.svg)](https://developer.lsst.io)
 [![GitHub Actions](https://github.com/lsst-dm/dm_dev_guide/workflows/CI/badge.svg)](https://github.com/lsst-dm/dm_dev_guide/actions?query=workflow%3A%22CI%22)
 
+# This repo currently links to the Rubin Observatory / LSST DM Developer Guide. Primarily to be used for coding style guides. Need to adapt this to SatHub.
+
+
 # LSST DM Developer Guide
 
 This repository contains the content for the [LSST DM Developer Guide, https://developer.lsst.io](http://developer.lsst.io).
